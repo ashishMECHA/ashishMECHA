@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishmecha&label=Profile%20views&color=0e75b6&style=flat" alt="ashishmecha" /> </p>
 
-- 🌱 I’m currently learning **React and Node.js**
+- 🌱 I’m currently learning **Node.js and MongoDB**
 
 - 📫 How to reach me **thakurashish525@gmail.com**
 
